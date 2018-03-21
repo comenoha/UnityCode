@@ -1,0 +1,64 @@
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\obj\Debug\Assembly-CSharp.dll
+C:\Users\Jackson Wakefield\Documents\GitHub\BowAndArrow\Kingdom\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\obj\Debug\Assembly-CSharp.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Jackson Wakefield\Google Drive\Highschool\JUNIOR\Kingdom\Temp\bin\Debug\UnityEngine.HoloLens.xml
